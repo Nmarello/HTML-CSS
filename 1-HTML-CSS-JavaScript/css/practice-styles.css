@@ -1,0 +1,91 @@
+body {
+    background: #1f5ed4;
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 0;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(253, 253, 253);
+    font: 40px bold, Garamond, Helvetica, serif,;
+    
+}
+
+h2 {
+    color: rgb(3, 3, 3);
+    font: 30px bold, Garamond, Helvetica, serif,;
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+    background-color: bisque;
+    height:300px;
+}
+
+.tabdiv {
+    width:50%;
+    margin: auto;
+    background: bisque;
+    padding-top: 30px;
+}
+
+.tabcont {
+    width: 100%;
+    background-color: bisque;
+    
+}
+
+thead {
+    text-align: center;
+    
+}
+
+#submit-btn{
+    margin-left: 43%;
+}
+.review {
+    width: 100%;
+    background-color: #1f5ed4;
+    height:300px;
+    text-align:center;
+}
+
+.revdiv{
+    width:50%;
+    margin: auto;
+    padding-top: 50px;
+    color: white;
+}
+
+label {
+    display: block;
+
+}
+
+#submit-btn {
+    display: block;
+    text-align: center;
+
+}
+
+.sub{
+    color:white;
+
+}
+
+.contact {
+   
+    margin: auto;
+    background: bisque;
+    height: 300px;
+    
+}
+
+.condiv {
+   
+    text-align: center;
+    padding-top: 50px;
+
+}
